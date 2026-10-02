@@ -23,5 +23,4 @@ A simple weather application built using HTML, CSS and JavaScript.
 3. The current weather will be displayed.
 
 ## preview
-![weather app preview]
-(weather-app.png)
+![weather app preview](weather-app.png)
