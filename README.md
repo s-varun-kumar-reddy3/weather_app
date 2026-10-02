@@ -21,3 +21,7 @@ A simple weather application built using HTML, CSS and JavaScript.
 1. Enter a city name.
 2. Click "Get Weather".
 3. The current weather will be displayed.
+
+##preview
+![weather app preview]
+(weather-app.png)
