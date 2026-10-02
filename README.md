@@ -22,6 +22,6 @@ A simple weather application built using HTML, CSS and JavaScript.
 2. Click "Get Weather".
 3. The current weather will be displayed.
 
-##preview
+## preview
 ![weather app preview]
 (weather-app.png)
